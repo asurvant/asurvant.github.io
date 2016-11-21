@@ -1,0 +1,119 @@
+---
+---
+
+h1, h2, h3, ul, html, body, footer, nav {
+  font-family: 'Ubuntu', sans-serif;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+//
+// font-family: 'Ubuntu', sans-serif;
+
+
+body {
+  background-color: #34495e;
+  color: #34495e;
+}
+
+.about-me {
+  width: 60%;
+  // font-family: 'Karla', sans-serif;
+  // font-family: 'Exo', sans-serif;
+  // font-family: 'Alegreya', serif;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.main-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  background-color: #e74c3c;
+  padding: 1em 0em;
+  align-self: stretch;
+
+  // color: white;
+  text-shadow: 2px 2px 2px brown;
+}
+
+.intro h3 {
+  margin: 0 0 1em 0;
+}
+
+.intro h1 {
+  margin: 1em 0 0 0;
+}
+
+.photo {
+  border-radius: 100px;
+  border: 5px solid white;
+}
+
+.portfolio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #bdc3c7;
+  align-self: stretch;
+  text-shadow: 1px 1px 1px black;
+
+  padding: 1em;
+}
+
+.port-preview {
+  margin: 0.5em;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #95a5a6;
+  align-self: stretch;
+
+  flex-direction: column;
+  text-shadow: 1px 1px 1px black;
+  padding: 1em;
+}
+
+.skillicons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+}
+
+.boop {
+  margin-top: 2em;
+}
+
+.skillicon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0.5em;
+}
+.hover:hover {
+  opacity: 0.5;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #34495e;
+  padding: 1em 0em;
+}
