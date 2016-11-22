@@ -5,13 +5,10 @@ h1, h2, h3, ul, html, body, footer, nav {
   margin: 0;
   color: white;
 }
-//
-// font-family: 'Ubuntu', sans-serif;
 
 
-body {
-  background-color: #34495e;
-  color: #34495e;
+html, body {
+  background-color: #2c3e50;
 }
 
 .about-me {
