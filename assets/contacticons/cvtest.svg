@@ -5,10 +5,10 @@
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st2{stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;}
 	.st3{fill:#34495E;}
 	.st4{font-family:'Ubuntu';}
-	.st5{font-size:206px;}
+	.st5{font-size:246px;}
 </style>
 <g id="XMLID_2_">
 	<path class="st0" d="M412.6,91.4C399.3,78.5,382.7,72,364.1,72H135.9c-19.2,0-35.2,6.5-48.4,19.4c-13.3,12.9-19.9,29.1-19.9,47.2
@@ -38,10 +38,10 @@
 		c6.5,5.7,12.4,16.8,12.4,33.8c0,24.4-0.2,44.1-0.2,50.1c0,4.9,3.3,10.5,12.5,8.8c72.5-24.2,124.7-92.5,124.7-173.2
 		C432.5,153.7,350.8,72,250,72z"/>
 </g>
-<rect x="148.5" y="392.9" class="st2" width="195.2" height="34.3"/>
-<rect x="148.5" y="392.9" class="st2" width="195.2" height="34.3"/>
-<rect x="148.5" y="393.1" class="st2" width="195.2" height="34.3"/>
-<rect x="148.2" y="393.2" class="st0" width="195.2" height="34.3"/>
+<rect x="148.5" y="392.9" class="st0" width="195.2" height="34.3"/>
+<rect x="148.5" y="381.4" class="st0" width="195.2" height="34.3"/>
+<rect x="148.2" y="393.2" class="st2" width="195.2" height="34.3"/>
+<rect x="148.5" y="375.8" class="st0" width="195.2" height="34.3"/>
 <rect x="106.3" y="123.3" class="st0" width="274" height="288.3"/>
-<text transform="matrix(1 0 0 1 118.0002 319.4987)" class="st3 st4 st5">CV</text>
+<text transform="matrix(1 0 0 1 84.7503 341.5247)" class="st3 st4 st5">CV</text>
 </svg>
