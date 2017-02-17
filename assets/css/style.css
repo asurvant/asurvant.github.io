@@ -118,3 +118,8 @@ footer {
   background-color: #34495e;
   padding: 1em 0em;
 }
+
+@media (max-width: 900px) {
+
+
+}
